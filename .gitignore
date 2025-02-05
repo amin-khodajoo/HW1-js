@@ -1,0 +1,11 @@
+node_modules
+
+public
+
+src
+
+vite.config.ts
+
+tsconfig.json
+
+index1.html
